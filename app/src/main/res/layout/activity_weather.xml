@@ -5,6 +5,6 @@
     tools:context=".WeatherActivity"
     tools:ignore="MergeRootFrame"
     android:id="@+id/container"
-    android:background="#2EB8E6">
+    android:background="#8FE0EA">
 
 </FrameLayout>
